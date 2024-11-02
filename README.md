@@ -6,6 +6,7 @@
 
 ![What I Do](https://skillicons.dev/icons?i=postgres,mysql,redis,git,bash,regex)
 
+- LinkedIn 💼 [in/AmirTheFree](https://linkedin.com/in/AmirTheFree)
 - What I do, Skills, Portfolio, About, Donate & ... 👉
  **[AmirTheFree.ir](https://AmirTheFree.ir)**
 - All skills + grading 🫴 _[AmirTheFree.ir/skills](https://AmirTheFree.ir/skills)_
