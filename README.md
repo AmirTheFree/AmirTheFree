@@ -1,10 +1,12 @@
-### **Full-Stack Developer 🧑‍💻**
+### Full-Stack Developer 🧑‍💻
 
 ![What I Do](https://skillicons.dev/icons?i=python,php,django,flask,express,wordpress)
 
 ![What I Do](https://skillicons.dev/icons?i=js,css,vue,nuxt,bootstrap,tailwind)
 
 ![What I Do](https://skillicons.dev/icons?i=postgres,mysql,redis,git,bash,regex)
+
+#### More
 
 - LinkedIn 💼 [in/AmirTheFree](https://linkedin.com/in/AmirTheFree)
 - What I do, Skills, Portfolio, About, Donate & ... 👉
