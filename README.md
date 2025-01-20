@@ -1,10 +1,10 @@
 ### Full-Stack Engineer 🧑‍💻
 
-![What I Do](https://skillicons.dev/icons?i=python,php,django,flask,express,wordpress)
+![What I Do](https://skillicons.dev/icons?i=django,flask,fastapi,express,php,wordpress)
 
-![What I Do](https://skillicons.dev/icons?i=js,css,vue,nuxt,bootstrap,tailwind)
+![What I Do](https://skillicons.dev/icons?i=vue,nuxt,react,alpinejs,tailwind,bootstrap)
 
-![What I Do](https://skillicons.dev/icons?i=postgres,mysql,redis,git,bash,regex)
+![What I Do](https://skillicons.dev/icons?i=postgres,mongodb,redis,docker,flutter,arduino)
 
 #### More
 
@@ -14,4 +14,4 @@
 - All skills + grading 🫴 _[AmirTheFree.ir/skills](https://AmirTheFree.ir/skills)_
 - CV 🫴 _[AmirTheFree.ir/cv](https://AmirTheFree.ir/cv)_
 
-![Where I live](https://skillicons.dev/icons?i=linux,arch,vim,obsidian,vscode,github)
+![Where I live](https://skillicons.dev/icons?i=arch,vscode,github,gitlab,vim,obsidian)
