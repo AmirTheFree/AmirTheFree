@@ -14,4 +14,4 @@
 - All skills + grading 🫴 _[AmirTheFree.ir/skills](https://AmirTheFree.ir/skills)_
 - CV 🫴 _[AmirTheFree.ir/cv](https://AmirTheFree.ir/cv)_
 
-![Where I live](https://skillicons.dev/icons?i=arch,vscode,github,gitlab,vim,obsidian)
+![Where I live](https://skillicons.dev/icons?i=arch,vscode,github,gitlab,linkedin,obsidian)
