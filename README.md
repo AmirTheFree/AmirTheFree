@@ -1,17 +1,16 @@
 ### Full-Stack Engineer 🧑‍💻
 
-![What I Do](https://skillicons.dev/icons?i=django,flask,fastapi,express,php,wordpress)
+![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,express,php)
 
 ![What I Do](https://skillicons.dev/icons?i=vue,nuxt,react,alpinejs,tailwind,bootstrap)
 
-![What I Do](https://skillicons.dev/icons?i=postgres,elasticsearch,docker,flutter,electron,arduino)
+![What I Do](https://skillicons.dev/icons?i=postgres,sqlite,elasticsearch,docker,git,solidity)
 
 #### More
 
 - LinkedIn 💼 [in/AmirTheFree](https://linkedin.com/in/AmirTheFree)
-- What I do, Skills, Portfolio, About, Donate & ... 👉
+- Website 👉
  **[AmirTheFree.ir](https://AmirTheFree.ir)**
-- All skills + grading 🫴 _[AmirTheFree.ir/skills](https://AmirTheFree.ir/skills)_
 - CV 🫴 _[AmirTheFree.ir/cv](https://AmirTheFree.ir/cv)_
 
 ![Where I live](https://skillicons.dev/icons?i=linux,arch,vscode,github,linkedin,obsidian)
