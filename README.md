@@ -1,4 +1,4 @@
-### Full-Stack Engineer 🧑‍💻
+### Full-Stack Developer 🧑‍💻
 
 ![What I Do](https://skillicons.dev/icons?i=python,django,fastapi,flask,express,php)
 
