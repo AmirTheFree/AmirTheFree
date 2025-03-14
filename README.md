@@ -4,7 +4,7 @@
 
 ![What I Do](https://skillicons.dev/icons?i=vue,nuxt,react,alpinejs,tailwind,sass)
 
-![What I Do](https://skillicons.dev/icons?i=postgres,sqlite,elasticsearch,docker,git,solidity)
+![What I Do](https://skillicons.dev/icons?i=postgres,sqlite,elasticsearch,docker,gitlab,solidity)
 
 #### More
 
